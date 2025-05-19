@@ -1,0 +1,26 @@
+.game-info {
+    max-width: 530px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 50px;
+    margin: 10px auto;
+
+    border-radius: 20px;
+    background-color: rgb(208, 151, 217);
+
+    p {
+        font-size: 24px;
+        font-weight: 600;
+    }
+
+    button {
+        color: #FFF;
+        font-size: 16px;
+        padding: 10px 20px;
+        background-color: palevioletred;
+        border: 1px solid #FFF;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+}

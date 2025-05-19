@@ -1,0 +1,47 @@
+.overlay {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    height: 100%;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    background-color: #0000007b;
+}
+
+.win-msg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 20px;
+
+    position: absolute;
+
+    width: 400px;
+    height: 300px;
+
+    border-radius: 20px;
+    background-color: #bc83fd;
+
+    h3 {
+        font-size: 32px;
+        margin: 0;
+    }
+
+    button {
+        color: #FFF;
+        font-size: 16px;
+        
+        background-color: palevioletred;
+        border: 1px solid #FFF;
+        border-radius: 10px;
+        padding: 10px 20px;
+
+        cursor: pointer;
+    }
+}
