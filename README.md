@@ -17,7 +17,7 @@ SCSS (для стилизации и анимации)
 
 ## 📦 Установка и запуск
 
-```bash
+```javascript
 git clone https://github.com/your-username/memory-game.git
 cd memory-card-game
 npm install
