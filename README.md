@@ -17,6 +17,9 @@
 ![Снимок экрана 2025-05-20 110815](https://github.com/user-attachments/assets/aab8397a-2a37-4da2-8f6a-d8ca621582e4)
 ![Снимок экрана 2025-05-20 110949](https://github.com/user-attachments/assets/74f42a65-7728-4e37-8799-c9b5bc1e7841)
 
+## 🕹️Попробовать
+[Перейти на сайт](https://memory-card-game-flame.vercel.app)
+
 ## 📦 Установка и запуск
 
 ```bash
